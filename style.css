@@ -1,0 +1,69 @@
+.body {
+    background-color:aquamarine;
+}
+
+.menu {
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Microsoft JhengHei;
+	font-size:20px;
+	font-weight:bold;
+	padding:0px 20px;
+	text-decoration:none;
+    position: relative;
+    bottom: 30px;
+}
+.menu:active {
+	position:relative;
+    bottom: 29px;
+}
+
+.menu_S {
+	display:inline-block;
+	cursor:pointer;
+	color:#ffae00;
+	font-family:Microsoft JhengHei;
+	font-size:20px;
+	font-weight:bold;
+	padding:0px 20px;
+	text-decoration:none;
+    position: relative;
+    bottom: 30px;
+}
+.menu_S:active {
+	position:relative;
+    bottom: 29px;
+}
+
+.text {
+	display:inline-block;
+	color:#ffffff;
+	font-family:Microsoft JhengHei;
+	font-size:20px;
+	font-weight:bold;
+}
+
+.icon { 
+    border-top-left-radius: 25% 25%; 
+    border-top-right-radius: 25% 25%; 
+    border-bottom-right-radius: 25% 25%; 
+    border-bottom-left-radius: 25% 25%; 
+}
+
+.ifc{
+    width: 140px;
+    height: auto;
+}
+
+.matches{
+	width: 960px;
+	height: auto;
+}
+
+.updates { 
+    border-top-left-radius: 10% 15%; 
+    border-top-right-radius: 10% 15%; 
+    border-bottom-right-radius: 10% 15%; 
+    border-bottom-left-radius: 10% 15%; 
+}
