@@ -56,13 +56,13 @@
 }
 
 .matches{
-	width: 960px;
-	height: auto;
+    width: 960px;
+    height: auto;
 }
 
 .updates { 
-	width: 500px; 
-	height: auto;
+    width: 500px; 
+    height: auto;
     border-top-left-radius: 10% 15%; 
     border-top-right-radius: 10% 15%; 
     border-bottom-right-radius: 10% 15%; 
