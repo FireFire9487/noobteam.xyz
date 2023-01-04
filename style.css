@@ -65,4 +65,6 @@
     border-top-right-radius: 10% 15%; 
     border-bottom-right-radius: 10% 15%; 
     border-bottom-left-radius: 10% 15%; 
+	width: 500px; 
+	height: auto;
 }
