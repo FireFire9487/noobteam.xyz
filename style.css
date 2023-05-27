@@ -11,14 +11,14 @@ nav > ul {
 nav a {
     color: inherit; /* 移除超連結顏色 */
     display: block; /* 讓 <a> 填滿 <li> */
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     padding: 10px;
     text-decoration: none;  /* 移除超連結底線 */
 }
 
 /* 滑鼠移到 <a> 時變成深底淺色 */
 nav li:hover {
-    background-color: rgb(255, 132, 60);
+    background-color: rgb(255, 159, 103);
     color: rgb(255, 255, 255);
     border-radius:20px; 
 }
@@ -43,4 +43,9 @@ a {
 
 .body{
     background-color:rgb(86, 255, 204)
+}
+
+center a {
+	color: white;
+    font-size: large;
 }
